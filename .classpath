@@ -26,5 +26,14 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gsing/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.1/webdrivermanager-5.3.1.jar" sourcepath="C:/Users/gsing/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.1/webdrivermanager-5.3.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="5.3.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
